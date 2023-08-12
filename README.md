@@ -21,7 +21,7 @@ You need a web browser to run this project.
 2. Navigate to the project directory:
 
    ```
-   cd zipcode-geo-download
+   cd zipcode-geo-downloader
    ```
 
 3. Open index.html in your web browser.
