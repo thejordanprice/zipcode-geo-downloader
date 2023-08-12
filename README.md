@@ -15,7 +15,7 @@ You need a web browser to run this project.
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/zipcode-geo-download.git
+   git clone https://github.com/thejordanprice/zipcode-geo-downloader.git
    ```
    
 2. Navigate to the project directory:
